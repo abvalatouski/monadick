@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        ".git": true,
+
+        "**/.stack-work": true,
+        "**/*.cabal": true,
+        "Setup.hs": true,
+        "stack.yaml.lock": true
+    }
+}

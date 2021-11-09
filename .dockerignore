@@ -1,0 +1,14 @@
+.git
+.gitignore
+
+doc
+README.md
+
+# IDE.
+.vscode
+hie.yaml
+
+# Stack.
+**/.stack-work
+**/*.cabal
+stack.yaml.lock

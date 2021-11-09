@@ -1,0 +1,36 @@
+name: monadick
+
+executables:
+  bot:
+    source-dirs: app
+    main:        Main.hs
+    other-modules:
+      - ApiMethods
+      - Commands
+      - Types
+    dependencies:
+      - attoparsec
+      - base
+      - exceptions
+      - file-embed
+      - gsu-physfac-timetable
+      - microlens
+      - microlens-mtl
+      - microlens-th
+      - mtl
+      - postgresql-simple
+      - text
+      - vk-api-mtl
+      - unordered-containers
+    default-extensions:
+      - BlockArguments
+      - DerivingStrategies
+      - GADTs
+      - GeneralizedNewtypeDeriving
+      - LambdaCase
+      - OverloadedLists
+      - OverloadedStrings
+      - RankNTypes
+      - RecordWildCards
+      - TemplateHaskell
+      - TypeApplications

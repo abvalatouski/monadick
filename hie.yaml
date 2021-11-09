@@ -1,0 +1,11 @@
+cradle:
+  stack:
+    - component: monadick:exe:bot
+      path:      app
+    
+    - component: vk-api:lib
+      path:      lib/vk-api/src
+    - component: vk-api-mtl:lib
+      path:      lib/vk-api-mtl/src
+    - component: gsu-physfac-timetable:lib
+      path:      lib/gsu-physfac-timetable/src

@@ -1,0 +1,6 @@
+resolver: lts-16.20
+packages:
+  - .
+  - lib/vk-api
+  - lib/vk-api-mtl
+  - lib/gsu-physfac-timetable

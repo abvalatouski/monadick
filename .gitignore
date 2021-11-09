@@ -1,0 +1,7 @@
+**/private
+lib
+
+# Stack.
+**/.stack-work
+**/*.cabal
+stack.yaml.lock

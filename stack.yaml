@@ -1,6 +1,6 @@
 resolver: lts-16.20
 packages:
   - .
-  - lib/vk-api
-  - lib/vk-api-mtl
-  - lib/gsu-physfac-timetable
+  - modules/vk/vk-api
+  - modules/vk/vk-api-mtl
+  - modules/gsu-physfac-timetable

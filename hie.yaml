@@ -4,8 +4,8 @@ cradle:
       path:      app
     
     - component: vk-api:lib
-      path:      lib/vk-api/src
+      path:      modules/vk/vk-api/src
     - component: vk-api-mtl:lib
-      path:      lib/vk-api-mtl/src
+      path:      modules/vk/vk-api-mtl/src
     - component: gsu-physfac-timetable:lib
-      path:      lib/gsu-physfac-timetable/src
+      path:      modules/gsu-physfac-timetable/src

@@ -1,0 +1,6 @@
+[submodule "modules/gsu-physfac-timetable"]
+	path = modules/gsu-physfac-timetable
+	url = https://github.com/abvalatouski/gsu-physfac-timetable
+[submodule "modules/vk"]
+	path = modules/vk
+	url = https://github.com/abvalatouski/vk
